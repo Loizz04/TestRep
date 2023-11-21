@@ -11,7 +11,7 @@ public class MPG extends Application {
          FXMLLoader.load(getClass().getResource("MPG.fxml"));
 
       Scene scene = new Scene(root); // attach scene graph to scene
-      stage.setTitle("Miles/Gallon Calculator"); // displayed in window's title bar
+      stage.setTitle("new creation"); // displayed in window's title bar
       stage.setScene(scene); // attach scene to stage
       stage.show(); // display the stage
    }
